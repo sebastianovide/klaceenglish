@@ -28,6 +28,9 @@ blockquote {
   font-size: 25px;
   margin-top: 6px;  
 }
+.contactus.email.dark {
+  color: #004;;
+}
 
 .contactus.email > a {
   color: #fff;   
@@ -38,6 +41,12 @@ blockquote {
 .contactus.email > a {
   text-decoration:  none;
 }
+
+.contactus.email.dark > a {
+  color: #004;;
+}
+
+
 
 /* container */
 .container.  h1 {
