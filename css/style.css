@@ -1,0 +1,255 @@
+/* global */
+body {
+    background: #aaF;
+    color: #34495E;
+}
+
+p {
+  /*font-size: 18px;
+  text-align: justify;*/
+}
+
+h1 {
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+blockquote {
+  border-left: 5px solid rgba(250,100,0,0.5);
+  font-style: italic;
+}
+
+/* contact us */
+.contactus {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 17px;
+  font-size: 25px;
+  margin-top: 6px;  
+}
+
+.contactus.email > a {
+  color: #fff;   
+  font-size: 30px;
+  margin-top: 1px;
+}
+
+.contactus.email > a {
+  text-decoration:  none;
+}
+
+/* container */
+.container.  h1 {
+  margin-bottom: 40px;
+}
+
+body > .container {
+  padding-left: 8%;
+  padding-right: 8%;
+  background-color: #fff;
+  margin-bottom: 15px;  
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+body > .container:not(.home) {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+/* Header */
+header {
+  background-color: #004;
+}
+
+header  img{
+    max-width: 75%;
+    margin: 10px;
+}
+
+/* NavBar */
+.navbar-form input, .form-inline input {
+	width:auto;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+  margin-top: -10px;  
+}
+
+.navbar {
+  background-color: #004;
+  border-color: #008;
+  margin-bottom: 0;
+}
+
+.navbar-nav.nav-justified > li{
+    float:none;
+}
+
+:not(.affix) > .navbar {
+  border-radius: 0;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+
+:not(.affix) .navbar-default .navbar-nav  a  {
+  background-color: inherit;  
+  color: #fff;
+  
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;  
+}
+
+.affix + .container {
+    padding-top:52px
+}
+
+.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:focus, 
+.affix .navbar-default .navbar-nav > .active > a, 
+.affix .navbar-default .navbar-nav > .active > a:hover, 
+.affix .navbar-default .navbar-nav > .active > a:focus,
+:not(.affix) .navbar-default .navbar-nav  a:hover,
+.navbar-default .navbar-nav > li > a:hover {
+  color: rgb(0, 0, 0);
+  background-color: #428bca;
+  
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;  
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}
+
+#sidebar.affix-top {
+    position: static;
+}
+
+#sidebar.affix {
+    position: fixed;
+    top: 80px;
+}
+
+#nav .navbar-brand {
+  height: 20px;
+}
+
+#nav:not(.affix) .navbar-brand {
+ /* display: none !important;*/
+  visibility: hidden !important;   
+}
+
+/*** featurette ***/
+
+/*.featurette-item, */
+.featurette-item p {
+  text-align: left;
+}
+
+.featurette-item > i {
+  font-size: 80px;
+  border: 3px solid;
+  border-radius: 50%;
+  display: inline-block;
+  width: 140px;
+  height: 140px;  
+  text-align: center;
+  vertical-align: middle;
+  line-height: 136px;
+}
+/*
+.featurette-item > i:hover {
+  font-size: 90px;
+}*/
+
+.featurette-item img {
+  width: 100%;
+  padding: 3%;
+  border: 3px solid;
+  border-radius: 50%;
+}
+
+.featurette-item a img:hover {
+  /*padding: 0%;*/
+}
+
+/*** home ***/
+#home .right li {
+  padding-left: 35px;
+  margin: 0 0 30px 0;
+  line-height: 29px;
+}
+
+#home .right li > span {
+  float: left;
+  margin: 3px 0 0px -35px; 
+}
+
+#home .left li {
+  margin: 0 0 13px 0;
+  line-height: 25px;
+}
+
+#home .left li > i {
+  float: left;
+  margin: -3px 0 0 -35px;
+  font-size: 45px;
+}
+
+#home .tick {
+  color: rgb(250, 100, 0);
+}
+
+/*** Location ***/
+#location > .row + .row{
+  padding-top: 10%;
+}
+
+/*** curriculum ***/
+#curriculum   li {
+  font-size: 18px;
+  margin-bottom: 0.7em;
+}
+
+#curriculum  h2 + .row,
+#curriculum  .row + .row {
+  padding-top: 5%;
+}
+
+#curriculum .featurette-item > a {
+  text-align: right;
+}
+
+/*** founder ***/
+#founder .featurette-item img {
+  width: 80%
+}
+
+/*** packages ***/
+#packages .featurette-item,
+#packages .featurette-item p {
+  text-align: center;
+}
+
+
