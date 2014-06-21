@@ -8,6 +8,7 @@ $(window).load(function(){
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-26404876-2', 'klaceenglish.com');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview', "/" + window.location.hash);
 
 
