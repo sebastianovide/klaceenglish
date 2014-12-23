@@ -63,7 +63,7 @@ $(window).load(function(){
   $contactFormModal.modal({show: false });
       
   // collpase long articles
-  $('#curriculum .featurette-item > p ').readmore({maxHeight: 100});
+  $('.readmore').readmore({maxHeight: 100});
       
   // contact form
   $('#contactForm').submit( function(event) {  
