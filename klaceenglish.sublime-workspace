@@ -1,0 +1,199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <link href=\"http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css\" rel=\"stylesheet\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"js/jquery.cookiebar/jquery.cookiebar.css\" />\n\n    <link rel=\"shortcut icon\" href=\"favicon.ico\">\n\n    <title>Klace English London Summer School</title>\n\n    <!-- Bootstrap core CSS -->\n    <link href=\"css/bootstrap.css\" rel=\"stylesheet\">\n		    \n    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n      <script src=\"https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js\"></script>\n    <![endif]-->\n    \n    <!-- my own styles -->\n    <link href=\"css/style.css\" rel=\"stylesheet\">\n\n    <!-- soon or later it will be responsive\n    <link href=\"css/responsive.css\" rel=\"stylesheet\">  -->\n  </head>\n\n  <body data-spy=\"scroll\" data-offset=\"-150\" data-target=\"#nav\">\n\n  \n  \n    <!-- Logo\n    ================================================== -->    \n    <!-- Content Above Nav -->\n    <header id=\"home\" class=\"masthead\">\n      <div class=\"container\">\n        <div class=\"row\">                    \n            <div class=\"col-md-6\">\n              <a href=\"#\" >\n                <img src=\"img/KlaceLogo.png\"  alt=\"Klace English\">\n              </a>\n            </div>\n            \n            <div class=\"col-md-6\">                        \n              <!--div class=\"contactus\">contact us today !</div-->\n              <div class=\"contactus email\">\n                <a href=\"mailto:info@klaceenglish.com\"> \n                  info@klaceenglish.com\n                </a>              \n                <div>\n                  <!--img href=\"img/english_flag.jpg\" height=\"42\" width=\"42\"-->\n                  +44 (0)20 3290 3100\n                </div>\n              </div>                                                \n            </div>                                        \n        </div>      \n      </div>\n    </header>\n\n\n    <!-- NAVBAR\n    ================================================== -->    \n    <!-- Begin Navbar -->\n    <div id=\"nav\">\n      <div class=\"navbar navbar-default navbar-static\">\n        <div class=\"container\">\n          <nav class=\"navbar-header\">            \n            <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n              <span class=\"icon-bar\"></span>\n              <span class=\"icon-bar\"></span>\n              <span class=\"icon-bar\"></span>\n            </button>\n            <a class=\"navbar-brand\" href=\"#home\">\n              <img src=\"img/KlaceLogo.png\" alt=\"Klace English\" >\n            </a>\n          </nav>\n          <nav class=\"navbar-collapse collapse\">\n            <ul class=\"nav navbar-nav\">\n                <li><a href=\"#the_klace_difference\">The Klace Difference</a></li>\n                <li><a href=\"#location\">Our Location</a></li>\n                <li><a href=\"#curriculum\">Our Curriculum</a></li>\n                <li><a href=\"#founder\">Our Founder</a></li>\n                <li><a href=\"#packages\">Packages</a></li>\n                <li><a href=\"#contact\">Contact us</a></li>   \n            </ul>            \n          </nav>		\n        </div>\n      </div><!-- /.navbar -->\n    </div>\n\n    \n    <!-- Home\n    ================================================== -->\n    <div id=\"home\" class=\"container home\">          \n      <h1>London English Summer School</h1>\n      \n      <div class=\"row \">\n        <div class=\"col-md-6 left\">\n        \n          <ul class=\"list-unstyled\">\n            <li style=\"font-size: 16px;\"><i class=\"tick fa fa-question\"></i>How can students with basic English skills increase their mastery of the language?</li>\n            <li style=\"font-size: 16px;\"><i class=\"tick fa fa-question\"></i>How can they prepare for university, interviews, employment and the real world in an English-speaking environment?</li>\n            <li style=\"font-size: 20px;\"><i class=\"tick fa fa-lightbulb-o\"></i>It's simple - by <strong>living</strong> it, <strong>enjoying</strong> it and <strong>experiencing</strong> it!</li>\n            <li style=\"font-size: 16px;\">Klace English Summer School is the answer. We put students in real-life situations, rather than the traditional grammar-based lessons.  We give them a practical means of taking their skill of the English language to the next level.</li>\n          </ul>         \n        \n        </div>\n        \n        <div class=\"col-md-6 right\" style=\"font-size: 25px; line-height: 1.5;\">\n            <ul class=\"list-unstyled\">\n              <li><span class=\"tick glyphicon glyphicon-ok\"></span>Real-life, situational learning</li>\n              <li><span class=\"tick glyphicon glyphicon-ok\"></span>Proven results</li>\n              <li><span class=\"tick glyphicon glyphicon-ok\"></span>Prepare for the future in a fun, effective environment</li>\n              <li><span class=\"tick glyphicon glyphicon-ok\"></span>A vibrant yet safe <strong>London</strong> location </li>\n            </ul>        \n        </div>\n      </div>\n    \n      <br>\n    \n      <blockquote>\n        <p >\n\"Janice is a world-class teacher. Her energetic and fun methodology allowed me to rise above my basic grasp of English. This fall, I'm starting my university much more confident. Thanks Janice!\" - Sandra J., Spain            \n        </p>\n      </blockquote>    \n    \n      <blockquote>\n        <p >\n\"Janice’s lessons are so energetic, fun and memorable\" - Omar S., Italy            \n        </p>\n      </blockquote>  \n      \n      \n          \n    </div>\n    \n    <!-- The Klace Difference\n    ================================================== -->    \n    <div id=\"the_klace_difference\" class=\"container \">\n      <h1>The Klace Difference</h1>\n      <div class=\"row\">\n        <div class=\"col-md-12\">          \n          \n          <p>Our program is for High school students from age 12 onwards. Our two-week program, based in London, and begins each summer from the third Monday of July,  immerses students in practical, English-speaking environments and offers <a href=\"http://psychology.about.com/od/educationalpsychology/a/experiential-learning.htm\"> experiential-based learning</a>, including drama, debating, storytelling, public speaking and cultural immersion\n          </p>\n\n          <del>\n          <p>Our program is for High school students from age 14 onwards. Our two-week program, based in London, and beginning in the summer of 2014, immerses students in practical, English-speaking environments and offers <a href=\"http://psychology.about.com/od/educationalpsychology/a/experiential-learning.htm\"> experiential-based learning</a>, including drama, debating, storytelling, public speaking and cultural immersion.\n          </p>\n          </del>\n\n          <p>Our program is based on a simple idea - learning by doing. And our results are proven. Unlike most typical English development courses, Klace allows students to take their classroom teachings to the next level. Students from diverse cultures are placed into exciting environments full of new experiences. Our two-week program provides total cultural immersion including exciting field excursions and hosting by English speaking families.\n          </p>\n\n          <p>To further suport our teaching methodologies, each classroom is equipped with the latest technological equipment, including a <a href=\"http://en.wikipedia.org/wiki/Smart_Board\">SMART Board</a>. This innovative tool has been likened to an interactive whiteboard. Audio can easily be embedded into SMART Notebook lessons reinforces important or difficult vocabulary and expressions in an interactive manner. The SMART Response system gauges student comprehension of topics covered.\n          </p>        \n        </div>\n      </div>\n    </div>\n    \n    <!-- Our Location\n    ================================================== -->    \n    <div id=\"location\" class=\"container \">\n      <h1>Our Location</h1>\n      <div class=\"row\">\n        <div class=\"col-md-12\">\n\n          <p>Klace School is based in on the borders of Richmond Upon thames and Kingston Upon Thames, London, which are welcoming, safe, vibrant and beautiful suburban areas. As one of South West London's best known boroughs, Kingston Upon thames and Richmond Upon thames are very  diverse, cultural locations. Vibrant yet very safe areas, Kingston Upon Thames and Richmond Upon Thames offer exciting activities. From opera to sports, or shopping to stunning outdoor parks, our location has it all. </p>\n          <p>The Richmond Park and the Hampton Court Palace are just two of these areas’ iconic cultural venues. But there is much more on offer.. The surrounding small towns and waterways make Kingston Upon Thames and Richmond one of the best destinations in the London. To learn more about our area, <a href=\"http://en.wikipedia.org/wiki/Kingston_upon_Thames\" alt=\"Kingston in Wikipedia\">click here</a>. </p>\n\n          <del>\n          <p>Klace School is based in Ealing, London, which is a welcoming, safe, vibrant and beautiful suburban area. As one of West London's best known boroughs, Ealing is a diverse, cultural location. A vibrant yet safe area, Ealing offers exciting activities. From opera to sports, or shopping to stunning outdoor parks, our location has it all.</p>\n\n          <p>The Gunnersbury Park Museum and the PM Gallery and House are just two of the area's iconic cultural venues. But Earling offers much more. The surrounding small towns and waterways make Ealing one of the best destinations in the London. To learn more about our area, <a href=\"http://www.ealing.gov.uk/site/scripts/home_info.php?homepageID=34\">click here</a>.\n          </p>     \n          </del>\n\n        </div>\n      </div>\n      \n\n\n\n      <div class=\"row\">  \n        <div class=\"col-md-4\">\n          <div class=\"featurette-item\">\n            <a href=\"http://en.wikipedia.org/wiki/Walpole_Park\">\n              <img src=\"img/walpole-park-ealing.jpg\"></img>\n            </a>\n            <h3>Walpole Park</h3>\n            <p>Ealing is a vibrant town centre with an array of shops, restaurants and lively parks. Ealing Summer Festival is held in Walpole Park</p>\n          </div>         \n        </div>\n        \n        <div class=\"col-md-4\">\n          <div class=\"featurette-item\">\n            <a href=\"http://www.ealing.gov.uk/info/200316/venue_hire/185/community_hire\">\n              <img src=\"img/Ealing_Town_Hall_front.jpg\"></img>\n            </a>\n            <h3>Ealing Town Hall</h3>\n            <p>Built in 1887 to celebrate the growth of local democracy in the borough, the Victorian building was expanded in 1930 to create the Town Hall building of today</p>\n          </div>         \n        </div>\n\n        <div class=\"col-md-4\">\n          <div class=\"featurette-item\">\n            <a href=\"http://www.lfm.org.uk/markets/ealing/\">\n              <img src=\"img/ealing_market.jpg\"></img>\n            </a>          \n            <h3>Ealing Market</h3>\n            <p>For four hours every Saturday Leeland Road is closed to traffic and transformed into a bustling marketplace where fresh farm produce is the order of the day.</p>\n          </div>         \n        </div>\n      </div>\n    </div>    \n    \n    <!-- Our Curriculum\n    ================================================== -->    \n    <div id=\"curriculum\" class=\"container \">\n      <h1>Our Curriculum</h1>\n      <div class=\"row\">        \n        <div class=\"col-md-12\">\n          <p>\n          Klace's curriculum includes a well-balanced program of experienced-based learning activities, off-site excursions, and classroom studies. Experiential content includes drama exercises, storytelling, public speaking and debating. Exciting field excursions include visits to local parks, cafes and entertainment venues. These activities provide total cultural immersion, taking what the students learn from our interactive activities and the classroom and put their skills to practical use in real-world situations. And students find our classrooms spacious and bright with class size not exceeding 16 students. \n          </p>\n\n          <p>\n          As the main difference of Klace's Curriculum, our experiential course work allows students to do a deep dive into using English in ways normal classroom environments simply can't provide. \n          </p>\n        </div>\n      </div>\n      <h2>Weekly activities<small>*</small></h2>\n      <div class=\"row\">\n                        \n        <div class=\"col-md-4 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-eye\"></i>\n            <h3>Theatre</h3>\n            <p>Theatrical Icebreaking with a mini script development and group performances develop voice and English comprehension skills. Through this activity, students practice fluency and further enhance their comprehension skills</p>\n          </div>                \n        </div>\n        \n        <div class=\"col-md-4 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-microphone\"></i>\n            <h3>Storytelling</h3>\n            <p>Expression of thought by reading, listening, and practicing English language sounds in a fun way. Storytelling helps students learn to take their thoughts and use English to express ideas and increase their conversational skills.</p>\n          </div>                \n        </div>\n\n        <div class=\"col-md-4 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-bullhorn\"></i>\n            <h3>Public Speaking</h3>\n            <p>Turning to a more focused approach, students learn how to pronounce speech sounds and patterns correctly for an audience. They organize their thoughts, and develop fluency. Students learn to select appropriate words and sentences according to the proper social setting, audience, situation and subject matter. They learn how to organize their thoughts in a meaningful and logical sequence.</p>\n          </div>                \n        </div>\n      </div>\n      <div class=\"row\">\n\n        <div class=\"col-md-4 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-comments-o\"></i>\n            <h3>Debating</h3>\n            <p>Students present evidence and improve argumentation skills. They develop confidence even when English is not the first language. Debate boosts aspirations, confidence and cultural awareness. As evidenced through students' perceptions and by an Ofsted review into creative approaches to learning, we find that classroom debates help students develop confidence and teach them to present their ideas more clearly</p>\n          </div>                \n        </div>        \n        \n        <div class=\"col-md-4 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa  fa-cogs \"></i>\n            <h3>Use of English</h3>\n            <p>End of week grammar lesson prepared to suit the student’s needs based on the teachers observations and discussion with the students in the previous days with the main focus on the use of English in practical situations.</p>\n          </div>                \n        </div>       \n\n        <div class=\"col-md-4 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-camera\"></i>\n            <h3>Cultural immersion</h3>\n            <p>Living in host families and going on excursions to iconic places complete the learning experience solidifying the further the language . The excursions are planned for during the lessons so students are prepared with the necessary vocabulary and expressions needed to understand and learn from the them. </p>\n          </div>                \n        </div>         \n                \n      </div>\n      <div class=\"row\">\n        <div class=\"col-md-12 text-right\">\n          <small>*Program details and inclusions are subject to change.</small>\n        </div>\n      </div>\n    </div>      \n    \n    <!-- Our Founder\n    ================================================== -->    \n    <div id=\"founder\" class=\"container \">\n      <h1>Our Founder</h1>\n      <div class=\"row\">\n        <div class=\"col-md-4\">\n          <div class=\"featurette-item\">\n            <img src=\"img/janice.jpg\"></img>\n            <h3>Ms. Janice Phillips</h3>\n            <p>Bed, BSc Hons, TELF, has been teaching since 1993 in four different countries</p>\n          </div>         \n        </div>\n        <div class=\"col-md-8\">\n          <p>Founder and Director Janice Phillips has been teaching since 1993 in four different countries.  Janice's Experience with students from very different cultures has taught her they all share the same peculiarity:  They learn much more when they have fun and when they use practically what they are learning.</p>\n\n          <p>Janice has a passion for her work and an in-depth knowledge of the learning process. Janice notes, <em>\"I understand students come from another country for two weeks into the UK aiming to have a great experience and improve their English in the process. They want to get the most from it in that short period of time that they will be here. For that reason I focus 100% on giving  them what they cannot get at home: incredible, practical experience that contributes to their personal growth.\"</em></p>\n\n          <p>Ms. Phillips has taught at Dublin Four English, Chiswick School and The British International School. Ms. Phillips holds a Bsc with honors and a post graduate TEFL diploma from the Dublin Institute of Technology.</p>        \n        </div>\n        \n      \n      </div>\n    </div>    \n\n    <!-- Packages\n    ================================================== -->    \n    <div id=\"packages\" class=\"container \">\n      <h1>Packages</h1>     \n      <div class=\"row\">    \n      \n        <div class=\"col-md-12 \">\n          <p>Our two weeks full package includes:</p><br>\n        </div>\n      \n        <div class=\"col-md-3 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-home\"></i>\n            <h3>Host Family</h3>\n            <p>English speaking host family including meals</p>\n          </div>                \n        </div>\n        \n        <div class=\"col-md-3 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-comments-o\"></i>\n            <h3>Practices</h3>\n            <p>Experiential-based learning excercises</p>\n          </div>                \n        </div>\n        \n        <div class=\"col-md-3 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-users\"></i>\n            <h3>Activities</h3>\n            <p>Total cultural immersion via extra activities</p>\n          </div>                \n        </div>\n        \n        <div class=\"col-md-3 text-center\">\n          <div class=\"featurette-item\">\n            <i class=\"fa fa-book\"></i>\n            <h3>Lessons</h3>\n            <p>Grammar reinforcmenet based on student's needs</p>\n          </div>                \n        </div>                \n        \n      </div>\n    </div>    \n\n    <!-- Contact us\n    ================================================== -->    \n    <div id=\"contact\" class=\"container \">\n      <h1>Contact us</h1>\n      <div class=\"row\">\n        <div class=\"col-md-12\">\n          \n            \n              <div class=\"contactus email dark\">\n                <a href=\"mailto:info@klaceenglish.com\"> \n                  info@klaceenglish.com\n                </a>              \n                <div>\n                  <!--img href=\"img/english_flag.jpg\" height=\"42\" width=\"42\"-->\n                  +44 (0)20 3290 3100\n                </div>\n              </div> \n            \n            \n            \n <!--           \n          <form id=\"contactForm\" role=\"form\"  action=\"/\" >\n            <div class=\"form-group\">\n              <label for=\"inputName\">Name</label>\n              <input id=\"inputName\" name=\"name\" required type=\"text\" class=\"form-control\" placeholder=\"Enter your name\">\n            </div>          \n            <div class=\"form-group\">\n              <label for=\"inputEmail\">Email address</label>\n              <input required id=\"inputEmail\" name=\"email\"  type=\"email\" class=\"form-control\"  placeholder=\"Enter your email address\">\n            </div>\n            <div class=\"form-group\">\n              <label for=\"inputMessage\">Message</label>\n              <textarea required id=\"inputMessage\" name=\"comments\" cols=\"50\" rows=\"10\" name=\"text\"  class=\"form-control\" autocomplete=\"off\" placeholder=\"Enter the message\"></textarea>\n            </div>            \n\n            <input type=\"text\" style=\"display:none;\" name=\"message\">\n            </input>\n\n\n            <div class=\"checkbox\">\n              <label>\n                <input name=\"copy\" type=\"checkbox\" checked> E-mail a copy of this message to your own address.\n              </label>\n            </div>\n            <button type=\"submit\" class=\"btn btn-default\">Submit</button>\n          </form>\n -->         \n          \n          \n          \n          \n        </div>\n      </div>\n      <hr>\n    </div>   \n    \n    \n    \n    \n    <!-- Modal -->\n    <div class=\"modal fade\" id=\"contactFormModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\">\n      <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n          <div class=\"modal-header\">\n            <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n            <h5 class=\"modal-title\" id=\"myModalLabel\">Contact form</h5>\n          </div>\n          <div class=\"modal-body\">                        \n          </div>\n          <div class=\"modal-footer\">\n            <button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Close</button>\n          </div>\n        </div><!-- /.modal-content -->\n      </div><!-- /.modal-dialog -->\n    </div><!-- /.modal -->         \n    \n \n      <!-- FOOTER -->\n    <footer>\n      <p class=\"pull-right\"><a href=\"#home\">Back to top</a></p>\n      <p>&copy; 2013 Klace English, Inc. &middot; <a href=\"#\">Privacy</a> &middot; <a href=\"#\">Terms</a></p>\n    </footer>\n\n\n    <!-- Bootstrap core JavaScript\n    ================================================== -->\n    <!-- Placed at the end of the document so the pages load faster -->\n    <script src=\"https://code.jquery.com/jquery-1.11.0.min.js\"></script>\n    <script>\n    if (!window.jQuery) {\n      document.write('<script src=\"js/jquery-1.11.0.min.js\"><\\/script>');\n    }\n    </script>	\n\n    <script src=\"js/bootstrap.min.js\"></script>\n    <script src=\"js/readmore.min.js\"></script>\n    <script src=\"js/jquery.cookiebar/jquery.cookiebar.js\"></script>\n\n    <script src=\"js/main.js\"></script>\n    \n  </body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 22989,
+			"file_write_time": 1419365984000000,
+			"settings":
+			{
+				"buffer_size": 22934,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"git ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"difference"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 22934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11514,
+								11514
+							]
+						],
+						"settings":
+						{
+							"live_git_annotations": true,
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3301.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
