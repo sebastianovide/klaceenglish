@@ -26,14 +26,14 @@ blockquote {
   font-size: 20px;
   margin-top: 17px;
   font-size: 25px;
-  margin-top: 6px;  
+  margin-top: 6px;
 }
 .contactus.email.dark {
   color: #004;;
 }
 
 .contactus.email > a {
-  color: #fff;   
+  color: #fff;
   font-size: 30px;
   margin-top: 1px;
 }
@@ -46,6 +46,10 @@ blockquote {
   color: #004;;
 }
 
+.flag {
+  max-height: 18px;
+  margin: -3px 0 0 0;
+}
 
 
 /* container */
@@ -57,7 +61,7 @@ body > .container {
   padding-left: 8%;
   padding-right: 8%;
   background-color: #fff;
-  margin-bottom: 15px;  
+  margin-bottom: 15px;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
 }
@@ -84,7 +88,7 @@ header  img{
 
 .navbar-brand img {
   max-height: 40px;
-  margin-top: -10px;  
+  margin-top: -10px;
 }
 
 .navbar {
@@ -113,35 +117,35 @@ header  img{
 }
 
 :not(.affix) .navbar-default .navbar-nav  a  {
-  background-color: inherit;  
+  background-color: inherit;
   color: #fff;
-  
+
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
 	-o-transition: all 200ms ease;
-	transition: all 200ms ease;  
+	transition: all 200ms ease;
 }
 
 .affix + .container {
     padding-top:52px
 }
 
-.navbar-default .navbar-toggle:hover, 
-.navbar-default .navbar-toggle:focus, 
-.affix .navbar-default .navbar-nav > .active > a, 
-.affix .navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus,
+.affix .navbar-default .navbar-nav > .active > a,
+.affix .navbar-default .navbar-nav > .active > a:hover,
 .affix .navbar-default .navbar-nav > .active > a:focus,
 :not(.affix) .navbar-default .navbar-nav  a:hover,
 .navbar-default .navbar-nav > li > a:hover {
   color: rgb(0, 0, 0);
   background-color: #428bca;
-  
+
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
 	-o-transition: all 200ms ease;
-	transition: all 200ms ease;  
+	transition: all 200ms ease;
 }
 
 #nav.affix {
@@ -166,7 +170,7 @@ header  img{
 
 #nav:not(.affix) .navbar-brand {
  /* display: none !important;*/
-  visibility: hidden !important;   
+  visibility: hidden !important;
 }
 
 /*** featurette ***/
@@ -182,7 +186,7 @@ header  img{
   border-radius: 50%;
   display: inline-block;
   width: 140px;
-  height: 140px;  
+  height: 140px;
   text-align: center;
   vertical-align: middle;
   line-height: 136px;
@@ -212,7 +216,7 @@ header  img{
 
 #home .right li > span {
   float: left;
-  margin: 3px 0 0px -35px; 
+  margin: 3px 0 0px -35px;
 }
 
 #home .left li {
@@ -264,5 +268,3 @@ header  img{
 .readmore-js-toggle {
   text-align: right;
 }
-
-
