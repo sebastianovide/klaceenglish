@@ -5,8 +5,8 @@ body {
 }
 
 p {
-  /*font-size: 18px;
-  text-align: justify;*/
+  /*font-size: 18px;*/
+  text-align: justify;
 }
 
 h1 {
@@ -165,7 +165,7 @@ header  img{
 }
 
 #nav .navbar-brand {
-  height: 20px;
+  /*height: 20px;*/
 }
 
 #nav:not(.affix) .navbar-brand {
@@ -176,9 +176,9 @@ header  img{
 /*** featurette ***/
 
 /*.featurette-item, */
-.featurette-item p {
+/*.featurette-item p {
   text-align: left;
-}
+}*/
 
 .featurette-item > i {
   font-size: 80px;
