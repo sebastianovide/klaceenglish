@@ -268,3 +268,7 @@ header  img{
 .readmore-js-toggle {
   text-align: right;
 }
+
+#cookie-bar {
+  height: auto;
+}
