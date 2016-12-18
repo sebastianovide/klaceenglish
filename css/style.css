@@ -58,10 +58,10 @@ blockquote {
 }
 
 body > .container {
-  padding-left: 8%;
+  padding-left: 42px;
   padding-right: 8%;
   background-color: #fff;
-  margin-bottom: 15px;
+  margin-bottom: 42px;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
 }
