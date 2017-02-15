@@ -265,6 +265,13 @@ header  img{
   text-align: center;
 }
 
+/*** FAQ ***/
+#faq li {
+  padding-bottom: 24px;
+  text-align: justify;
+}
+
+/*** others ***/
 .readmore-js-toggle {
   text-align: right;
 }
