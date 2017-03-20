@@ -266,7 +266,7 @@ header  img{
 }
 
 /*** FAQ ***/
-#faq li {
+#faq > div > div > ol > li {
   padding-bottom: 24px;
   text-align: justify;
 }
