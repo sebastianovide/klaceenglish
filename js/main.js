@@ -20,68 +20,70 @@ $(window).load(function(){
         offset: {
           top: $('header').height()
         }
-  });	
+  });
 
   /*
   $('#sidebar').affix({
         offset: {
           top: 200
         }
-  });	
+  });
   */
 
-  // smooth scrolling for hash links                       
+  // smooth scrolling for hash links
   var $root = $('html, body');
   $("a[href^='#']").click(function(e) {
       e.preventDefault();
-      
+
       ga('send', 'event', 'internallink', 'click', this.hash);;
-      
+
       var target = this.hash,
-	    $target = $(target);      
-      
+	    $target = $(target);
+
 	    $root.stop().animate({'scrollTop': $target.offset().top}, 500, 'swing', function () {
 	        window.location.hash = target;
      //     return false;
      //     $root.stop().animate({'scrollTop': $target.offset().top}, 500, 'swing');
       //    return false;
 	    });
+
+      $('.navbar-toggle').click();
     //  return false;
-  });   
+  });
 
   // external links in a new tab
   $("a[href^='http://']").attr("target","_blank");
-  
-  // set padding before each paragraph based on bar size        
+
+  // set padding before each paragraph based on bar size
   $('body > .container:not(.home)')
     .css('padding-top', $('#nav').height());
-  $('body > .container')         
+  $('body > .container')
     .css('padding-bottom', $('#nav').height());
 
 
   var $contactFormModal = $("#contactFormModal");
   $contactFormModal.modal({show: false });
-      
+
   // collpase long articles
   $('.readmore').readmore({maxHeight: 100});
-      
+
   // contact form
-  $('#contactForm').submit( function(event) {  
-  
+  $('#contactForm').submit( function(event) {
+
     function showModal(bodyContent) {
       $contactFormModal.find(".modal-body").html("<h4>" + bodyContent + "</h4>");
-      $contactFormModal.modal('show');    
+      $contactFormModal.modal('show');
     }
-  
+
     event.preventDefault();
- 
+
     var $form = $( this );
-    
-    // display a sending message.    
+
+    // display a sending message.
     showModal("sending email...");
-      
+
     $.post("feedback.html", $('#contactForm').serialize())
-      .done(function(result) {        
+      .done(function(result) {
         if (result == "ok") {
           showModal("Thank you for your message. We will contact you as soon as possible.");
           $form.trigger('reset');
@@ -93,7 +95,7 @@ $(window).load(function(){
       .fail(function(result) {
         showModal("Something went wrong. Please try again.");
       });
-    
+
   } );
 
 });
