@@ -59,7 +59,7 @@ blockquote {
 
 body > .container {
   padding-left: 42px;
-  padding-right: 8%;
+  padding-right: 42px;
   background-color: #fff;
   margin-bottom: 42px;
   border-bottom-left-radius: 15px;
@@ -259,9 +259,9 @@ header  img{
   width: 80%
 }
 
-/*** packages ***/
-#packages .featurette-item,
-#packages .featurette-item p {
+/*** summerCourse ***/
+#summerCourse .featurette-item,
+#summerCourse .featurette-item p {
   text-align: center;
 }
 
@@ -278,4 +278,10 @@ header  img{
 
 #cookie-bar {
   height: auto;
+}
+
+sup {
+  color: white;
+  background: red;
+  font-weight: bold;
 }
