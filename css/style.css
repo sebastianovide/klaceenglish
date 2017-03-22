@@ -265,6 +265,15 @@ header  img{
   text-align: center;
 }
 
+#adults .featurette-item {
+  text-align: center;
+  padding-top: 24px
+}
+
+#adults > div:nth-child(2) > div > div {
+  padding-top: 0px
+}
+
 /*** FAQ ***/
 #faq > div > div > ol > li {
   padding-bottom: 24px;
