@@ -53,6 +53,7 @@ $(window).load(function(){
 
   // external links in a new tab
   $("a[href^='http://']").attr("target","_blank");
+  $("a[href^='https://']").attr("target","_blank");
 
   // set padding before each paragraph based on bar size
   $('body > .container:not(.home)')
@@ -60,14 +61,19 @@ $(window).load(function(){
   $('body > .container')
     .css('padding-bottom', $('#nav').height());
 
-
-  var $contactFormModal = $("#contactFormModal");
-  $contactFormModal.modal({show: false });
-
   // collpase long articles
   $('.readmore').readmore({maxHeight: 100});
 
+// $(window).bind( 'hashchange', function(e) {
+//
+// console.log("XXXX, ", e);
+//
+// });
+
   // contact form
+  var $contactFormModal = $("#contactFormModal");
+  $contactFormModal.modal({show: false });
+
   $('#contactForm').submit( function(event) {
 
     function showModal(bodyContent) {
